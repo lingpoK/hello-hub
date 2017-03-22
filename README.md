@@ -1,3 +1,3 @@
 # hello-hub
-just a repository/n
+just a repository
 Hi, human!
